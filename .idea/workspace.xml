@@ -2,46 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ebc9f38-4880-436c-b902-bcb49fa6deed" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/theme/images/hackaton2017.github.io/background-image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/theme/images/hackaton2017.github.io/crossbar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/theme/images/hackaton2017.github.io/leg.svg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/0bbe7ac52a9de62856e803d29ef1d5b83e6440a2/desktop.scssc" afterPath="$PROJECT_DIR$/.sass-cache/0bbe7ac52a9de62856e803d29ef1d5b83e6440a2/desktop.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/0bbe7ac52a9de62856e803d29ef1d5b83e6440a2/mobile.scssc" afterPath="$PROJECT_DIR$/.sass-cache/0bbe7ac52a9de62856e803d29ef1d5b83e6440a2/mobile.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/0ec3da54da5b835f7783c905bac359f81b26e4c6/desktop.scssc" afterPath="$PROJECT_DIR$/.sass-cache/0ec3da54da5b835f7783c905bac359f81b26e4c6/desktop.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/0ec3da54da5b835f7783c905bac359f81b26e4c6/desktopHD.scssc" afterPath="$PROJECT_DIR$/.sass-cache/0ec3da54da5b835f7783c905bac359f81b26e4c6/desktopHD.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/0ec3da54da5b835f7783c905bac359f81b26e4c6/desktopMega.scssc" afterPath="$PROJECT_DIR$/.sass-cache/0ec3da54da5b835f7783c905bac359f81b26e4c6/desktopMega.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/0ec3da54da5b835f7783c905bac359f81b26e4c6/desktopWide.scssc" afterPath="$PROJECT_DIR$/.sass-cache/0ec3da54da5b835f7783c905bac359f81b26e4c6/desktopWide.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/0ec3da54da5b835f7783c905bac359f81b26e4c6/phoneLandscape.scssc" afterPath="$PROJECT_DIR$/.sass-cache/0ec3da54da5b835f7783c905bac359f81b26e4c6/phoneLandscape.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/0ec3da54da5b835f7783c905bac359f81b26e4c6/tabletLandscape.scssc" afterPath="$PROJECT_DIR$/.sass-cache/0ec3da54da5b835f7783c905bac359f81b26e4c6/tabletLandscape.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/0ec3da54da5b835f7783c905bac359f81b26e4c6/tabletPortrait.scssc" afterPath="$PROJECT_DIR$/.sass-cache/0ec3da54da5b835f7783c905bac359f81b26e4c6/tabletPortrait.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/73975fba4bac39858fe8517628e3bdb013dabca5/tabletLandscape.scssc" afterPath="$PROJECT_DIR$/.sass-cache/73975fba4bac39858fe8517628e3bdb013dabca5/tabletLandscape.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/desktop.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/desktop.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/desktopHD.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/desktopHD.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/desktopMega.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/desktopMega.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/desktopWide.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/desktopWide.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/phoneLandscape.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/phoneLandscape.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/phonePortrait.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/phonePortrait.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/tabletLandscape.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/tabletLandscape.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/tabletPortrait.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e14b3721395ce8193c3902013856a67c8346ffc1/tabletPortrait.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/73975fba4bac39858fe8517628e3bdb013dabca5/desktop.scssc" afterPath="$PROJECT_DIR$/.sass-cache/73975fba4bac39858fe8517628e3bdb013dabca5/desktop.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/73975fba4bac39858fe8517628e3bdb013dabca5/desktopHD.scssc" afterPath="$PROJECT_DIR$/.sass-cache/73975fba4bac39858fe8517628e3bdb013dabca5/desktopHD.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/73975fba4bac39858fe8517628e3bdb013dabca5/desktopMega.scssc" afterPath="$PROJECT_DIR$/.sass-cache/73975fba4bac39858fe8517628e3bdb013dabca5/desktopMega.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/73975fba4bac39858fe8517628e3bdb013dabca5/desktopWide.scssc" afterPath="$PROJECT_DIR$/.sass-cache/73975fba4bac39858fe8517628e3bdb013dabca5/desktopWide.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/e86cf8c3aa92713cf093d1e7e80502d4598e7fb1/desktop.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e86cf8c3aa92713cf093d1e7e80502d4598e7fb1/desktop.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/e86cf8c3aa92713cf093d1e7e80502d4598e7fb1/mobile.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e86cf8c3aa92713cf093d1e7e80502d4598e7fb1/mobile.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/e86cf8c3aa92713cf093d1e7e80502d4598e7fb1/variables.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e86cf8c3aa92713cf093d1e7e80502d4598e7fb1/variables.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/ff10e7f49b477c673a026f54ed648f95953aa0d9/mobile.scssc" afterPath="$PROJECT_DIR$/.sass-cache/ff10e7f49b477c673a026f54ed648f95953aa0d9/mobile.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/app.css" afterPath="$PROJECT_DIR$/dist/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/entrance_form/desktop.scss" afterPath="$PROJECT_DIR$/src/components/entrance_form/desktop.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktop.scss" afterPath="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktop.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktopHD.scss" afterPath="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktopHD.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktopMega.scss" afterPath="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktopMega.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktopWide.scss" afterPath="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktopWide.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/phoneLandscape.scss" afterPath="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/phoneLandscape.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/tabletLandscape.scss" afterPath="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/tabletLandscape.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/tabletPortrait.scss" afterPath="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/tabletPortrait.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/entrance_form/mobile.scss" afterPath="$PROJECT_DIR$/src/components/entrance_form/mobile.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/entrance_form/variables.scss" afterPath="$PROJECT_DIR$/src/components/entrance_form/variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/logo/mediaQueries/tabletLandscape.scss" afterPath="$PROJECT_DIR$/src/components/logo/mediaQueries/tabletLandscape.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/logo/mobile.scss" afterPath="$PROJECT_DIR$/src/components/logo/mobile.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/logo/mediaQueries/desktop.scss" afterPath="$PROJECT_DIR$/src/components/logo/mediaQueries/desktop.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/logo/mediaQueries/desktopHD.scss" afterPath="$PROJECT_DIR$/src/components/logo/mediaQueries/desktopHD.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/logo/mediaQueries/desktopMega.scss" afterPath="$PROJECT_DIR$/src/components/logo/mediaQueries/desktopMega.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/logo/mediaQueries/desktopWide.scss" afterPath="$PROJECT_DIR$/src/components/logo/mediaQueries/desktopWide.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/main_page/desktop.scss" afterPath="$PROJECT_DIR$/src/components/main_page/desktop.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/main_page/mediaQueries/desktop.scss" afterPath="$PROJECT_DIR$/src/components/main_page/mediaQueries/desktop.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/main_page/mediaQueries/phoneLandscape.scss" afterPath="$PROJECT_DIR$/src/components/main_page/mediaQueries/phoneLandscape.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/main_page/mediaQueries/phonePortrait.scss" afterPath="$PROJECT_DIR$/src/components/main_page/mediaQueries/phonePortrait.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/main_page/mediaQueries/tabletLandscape.scss" afterPath="$PROJECT_DIR$/src/components/main_page/mediaQueries/tabletLandscape.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/main_page/mediaQueries/tabletPortrait.scss" afterPath="$PROJECT_DIR$/src/components/main_page/mediaQueries/tabletPortrait.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/main_page/mobile.scss" afterPath="$PROJECT_DIR$/src/components/main_page/mobile.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,18 +46,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -85,21 +62,29 @@
         <option value="$PROJECT_DIR$/src/components/logo/mobile.scss" />
         <option value="$PROJECT_DIR$/dist/css/app.css" />
         <option value="$PROJECT_DIR$/src/components/entrance_form/mobile.scss" />
-        <option value="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/phoneLandscape.scss" />
         <option value="$PROJECT_DIR$/src/components/logo/mediaQueries/tabletLandscape.scss" />
         <option value="$PROJECT_DIR$/src/components/main_page/mediaQueries/phonePortrait.scss" />
         <option value="$PROJECT_DIR$/src/components/main_page/mediaQueries/desktopWide.scss" />
         <option value="$PROJECT_DIR$/src/components/main_page/mediaQueries/desktopMega.scss" />
         <option value="$PROJECT_DIR$/src/components/main_page/mediaQueries/desktopHD.scss" />
         <option value="$PROJECT_DIR$/src/components/main_page/mediaQueries/desktop.scss" />
-        <option value="$PROJECT_DIR$/src/components/main_page/desktop.scss" />
         <option value="$PROJECT_DIR$/src/components/main_page/mediaQueries/tabletLandscape.scss" />
         <option value="$PROJECT_DIR$/src/components/main_page/mediaQueries/tabletPortrait.scss" />
         <option value="$PROJECT_DIR$/src/components/main_page/mediaQueries/phoneLandscape.scss" />
         <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/components/main_page/desktop.scss" />
+        <option value="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/tabletPortrait.scss" />
+        <option value="$PROJECT_DIR$/src/components/logo/mediaQueries/desktop.scss" />
+        <option value="$PROJECT_DIR$/src/components/logo/mediaQueries/desktopHD.scss" />
+        <option value="$PROJECT_DIR$/src/components/logo/mediaQueries/desktopMega.scss" />
+        <option value="$PROJECT_DIR$/src/components/logo/mediaQueries/desktopWide.scss" />
         <option value="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/tabletLandscape.scss" />
         <option value="$PROJECT_DIR$/src/components/entrance_form/desktop.scss" />
-        <option value="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/tabletPortrait.scss" />
+        <option value="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktop.scss" />
+        <option value="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/phoneLandscape.scss" />
+        <option value="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktopHD.scss" />
+        <option value="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktopMega.scss" />
+        <option value="$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktopWide.scss" />
       </list>
     </option>
   </component>
@@ -208,32 +193,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hackaton2017.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hackaton2017.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="entrance_form" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mediaQueries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -324,19 +283,19 @@
       <workItem from="1486124495013" duration="3313000" />
       <workItem from="1486143739635" duration="675000" />
       <workItem from="1486401028511" duration="9295000" />
-      <workItem from="1486646355097" duration="13740000" />
+      <workItem from="1486646355097" duration="15692000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31125000" />
+    <option name="totallyTimeSpent" value="33077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="7" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25749424" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25749424" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -354,6 +313,26 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25749424" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -366,24 +345,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mobile.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <marker date="1486660315913" expanded="true" signature="460:493" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/main_page/mobile.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -468,14 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mediaQueries/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/theme/fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -515,42 +468,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktopWide.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/entrance_form/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/logo/mediaQueries/tabletPortrait.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/logo/mediaQueries/tabletLandscape.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/main_page/desktop.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -637,6 +558,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/main_page/mobile.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -645,25 +574,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mobile.scss">
+    <entry file="file://$PROJECT_DIR$/src/components/main_page/desktop.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="54" column="29" lean-forward="true" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+        <state relative-caret-position="180">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding>
-            <marker date="1486660315913" expanded="true" signature="460:493" ph="..." />
+            <marker date="1486676633228" expanded="true" signature="237:324" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktop.scss">
+    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mediaQueries/tabletPortrait.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="21" />
+        <state relative-caret-position="36">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktopMega.scss">
+    <entry file="file://$PROJECT_DIR$/src/components/logo/mediaQueries/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -671,7 +600,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktopHD.scss">
+    <entry file="file://$PROJECT_DIR$/src/components/logo/mediaQueries/desktop.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/logo/mediaQueries/tabletPortrait.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/logo/mediaQueries/tabletLandscape.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
@@ -679,18 +624,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/desktop.scss">
+    <entry file="file://$PROJECT_DIR$/src/components/logo/mediaQueries/phonePortrait.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mediaQueries/phoneLandscape.scss">
+    <entry file="file://$PROJECT_DIR$/src/components/logo/mediaQueries/phoneLandscape.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/logo/mediaQueries/desktopWide.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/logo/mediaQueries/desktopMega.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/logo/desktop.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/logo/mediaQueries/desktopHD.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mediaQueries/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -705,26 +690,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mediaQueries/tabletLandscape.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
-            <marker date="1486675882926" expanded="true" signature="0:21" ph="..." />
+            <marker date="1486677500282" expanded="true" signature="0:20" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mediaQueries/tabletPortrait.scss">
+    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/desktop.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
+    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktopWide.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+        <state relative-caret-position="90">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mobile.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="17" />
+          <folding>
+            <marker date="1486660315913" expanded="true" signature="460:493" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mediaQueries/phoneLandscape.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktop.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktopHD.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/entrance_form/mediaQueries/desktopMega.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
