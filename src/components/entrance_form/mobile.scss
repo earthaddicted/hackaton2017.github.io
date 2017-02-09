@@ -3,7 +3,7 @@
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
-  margin-top: px(100);
+  //margin-top: px(100);
 
 
     input {
@@ -17,9 +17,9 @@
       color: rgb(255, 255, 255);
       //font-family: 'Montserrat';
       //font-size: px(26);
-      padding: px(38) 0 px(38) px(103);
+      //padding: px(38) 0 px(38) px(103);
       background-repeat: no-repeat;
-      background-position: px(10);
+      background-position: px(30);
       -webkit-background-size: px(10);
       background-size: px(50);
        @include fonts_Montserrat;
@@ -32,35 +32,44 @@
 
     .password {
       background-image: url(../images/hackaton2017.github.io/password.png);
-
     }
 
+    button, input {
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      background-color: rgba(255,255,255,.1);
+      border: 1px solid transparent;
+      border-radius: 46px;
+      margin: 26px 0;
+      color: #fff;
+      width: 80vw;
+      padding: px(35) px(120);
+      font-size: px(28);
+    }
 
+    button {
+      -ms-flex-pack: center;
+      justify-content: center;
+      -ms-flex-align: center;
+      align-items: center;
+      background-color: #f96332;
+      @include fonts_Montserrat;
+    }
 
-  button, input {
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    background-color: rgba(255,255,255,.1);
-    border: 1px solid transparent;
-    border-radius: 46px;
-    margin: 26px 0;
-    color: #fff;
-    font-size: 2.28878vw;
-    width: 80vw;
-    padding: px(35) px(120);
-    font-size: px(26);
-  }
+    .account_details {
+      display: flex;
+      justify-content: space-between;
+    }
 
-  button {
-    -ms-flex-pack: center;
-    justify-content: center;
-    -ms-flex-align: center;
-    align-items: center;
-    background-color: #f96332;
-    @include fonts_Montserrat;
-  }
+      a {
+        opacity: 0.5;
+        color: #fff;
+        @include fonts_Montserrat;
+        font-size: px(26);
+        cursor: pointer;
+      }
 
 }
 

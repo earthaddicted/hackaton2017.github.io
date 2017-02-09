@@ -1,1 +1,10 @@
-@import '../mobile';
+@import '../desktop';
+
+& {
+
+  button, input {
+    width: 50vw;
+    margin-bottom: 26px;
+  }
+
+}

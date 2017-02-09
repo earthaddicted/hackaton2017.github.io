@@ -4,29 +4,39 @@
     <title>Welcome to my new project!</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1.0, width=device-width">
+    <!-- <link rel="stylesheet" href="theme/reset.scss"> -->
     <link type="text/css" rel="stylesheet" href="css/app.css" />
 </head>
 <body>
 <section class="main_page">
 
     <div class="logo">
-        <div class="logo__signal logo__signal--big"></div>
-        <div class="logo__signal logo__signal--small">
+        <div class="logo__signal">
+            <div class="logo__signal logo__signal--big"></div>
+            <div class="logo__signal logo__signal--small"></div>
         </div>
-        <div class="logo__line logo__line-top_grad"></div>
-        <div class="logo__line"></div>
-        <div class="logo__line logo__line-bottom_grad"></div>
+        <div class="logo_sign">
+            <div class="logo__line logo__line-top_grad"></div>
+            <div class="logo__line"></div>
+            <div class="logo__line logo__line-bottom_grad"></div>
+        </div>
+
     </div>
     <div class="entrance_form">
         <form action="echo" method="post">
-            <input name="username" type="text" class="entrance_form__input" placeholder="Username" tabindex="1" required/>
+            <input name="username" type="text" class="entrance_form__input login" placeholder="Username" tabindex="1" required/>
 
-            <input type="password" name="password" class="entrance_form__input" placeholder="Choose Password" tabindex="2" required/>
+            <input type="password" name="password" class="entrance_form__input password" placeholder="Choose Password" tabindex="2" required/>
+            <!-- <input type="submit" tabindex="3" value="Get Started" class="entrance_form__input"> -->
+            <button>
+                Get Started
+            </button>
         </form>
-
-        <input type="submit" tabindex="2" value="Get Started" class="entrance_form__input">
+        <div class="account_details">
+            <a href="#">Create Account</a>
+            <a href="#">Need Help?</a>
+        </div>
     </div>
-
 
 </section>
 </body>

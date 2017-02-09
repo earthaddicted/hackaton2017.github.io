@@ -3,14 +3,16 @@
   position: relative;
   -webkit-justify-content: space-between;
   justify-content: space-between;
-  padding-top: px(315);
+  padding-top: px(180);
 
   .logo__line {
     display: flex;
     -webkit-justify-content: center;
     justify-content: center;
     width: 25px;
-    height: 111px;
+    //width: px(40);
+    height: 110px;
+    //height: px(175);
     margin: 0 auto;
     background-color: #fff;
     border-radius: 12px;
@@ -18,7 +20,9 @@
 
   .logo__line:nth-of-type(2) {
     width: 20px;
+    //width: px(31);
     height: 106px;
+    //height: px(173);
     border-radius: 15px;
     transform: skew(42deg,-45deg);
   }

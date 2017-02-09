@@ -1,1 +1,10 @@
 @import '../mobile';
+
+
+& {
+
+  button, input {
+    width: 70vw;
+    margin-bottom: 26px;
+  }
+}
