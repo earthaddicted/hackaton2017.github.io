@@ -6,23 +6,65 @@
   margin-top: px(100);
 
 
+    input {
+      display: flex;
+      flex-direction: column;
+      width: px(554);
+      background-color: rgba(255, 255, 255, .1);
+      border: 1px solid transparent;
+      border-radius: 46px;
+      margin: 4px 0;
+      color: rgb(255, 255, 255);
+      //font-family: 'Montserrat';
+      //font-size: px(26);
+      padding: px(38) 0 px(38) px(103);
+      background-repeat: no-repeat;
+      background-position: px(10);
+      -webkit-background-size: px(10);
+      background-size: px(50);
+       @include fonts_Montserrat;
+    }
 
-  input {
+    .login {
+      background-image: url(../images/hackaton2017.github.io/username.png);
+
+    }
+
+    .password {
+      background-image: url(../images/hackaton2017.github.io/password.png);
+
+    }
+
+
+
+  button, input {
+    display: -ms-flexbox;
     display: flex;
+    -ms-flex-direction: column;
     flex-direction: column;
-    width: px(554);
-    // opacity: .1;
-    background-color: rgba(255, 255, 255, .1);
+    background-color: rgba(255,255,255,.1);
     border: 1px solid transparent;
     border-radius: 46px;
-    margin: 4px 0;
-    color: rgb(255, 255, 255);
-    font-family: 'Montserrat';
-    font-size: 22px;
-    // padding: px(38) 4px;
-    padding: px(38) 0 px(38) px(103);
+    margin: 26px 0;
+    color: #fff;
+    font-size: 2.28878vw;
+    width: 80vw;
+    padding: px(35) px(120);
+    font-size: px(26);
   }
 
-
+  button {
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #f96332;
+    @include fonts_Montserrat;
+  }
 
 }
+
+
+
+
+

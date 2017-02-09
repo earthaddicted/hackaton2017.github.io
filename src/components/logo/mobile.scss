@@ -3,8 +3,6 @@
   position: relative;
   -webkit-justify-content: space-between;
   justify-content: space-between;
-  width: 111px;
-  height: 111px;
   padding-top: px(315);
 
   .logo__line {
@@ -19,14 +17,10 @@
   }
 
   .logo__line:nth-of-type(2) {
-    //width: 20px;
-    //height: 110px;
-    //border-radius: 15px;
-    //transform: skew(39deg,-39deg);
     width: 20px;
     height: 106px;
     border-radius: 15px;
-    transform: skew(42deg, -45deg);
+    transform: skew(42deg,-45deg);
   }
 
   .logo__line-top_grad {
@@ -42,5 +36,14 @@
     position: static;
   }
 
+  .logo_sign {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    width: 127px;
+    height: 111px;
+    padding-left: 15px;
+  }
 
 }
